@@ -7,7 +7,7 @@
         - default keyword specifies code to run if there is no case match
 */
 
-let officeCharacter = 'Jim';
+let officeCharacter = 'Michael';
 
 switch (officeCharacter) {
     case "Michael": 
