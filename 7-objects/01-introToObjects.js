@@ -115,3 +115,13 @@ console.log(zucchini);
 let baking = {};
 baking['zucchini'] = 'better make some bread';
 console.log(baking);
+
+console.log(baking[garden['vegetable']]);
+
+let testObj = {
+    "Spaces here": true,
+    noSpaces: true 
+}
+
+console.log(testObj.noSpaces);
+console.log(testObj["Spaces here"])
